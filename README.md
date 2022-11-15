@@ -3,7 +3,7 @@
 
 Для тестирования использовался тестовый стенд веб-приложения Яндекс.Маршруты.
 
-1-й спринт https://docs.google.com/spreadsheets/d/12yDBphvZtPeNiBWTjst8OAwWBebS7iiBYhFoig7GbaQ/edit#gid=2010888140
+1-й спринт https://docs.google.com/document/d/1fzvMhGMBiVWBnExR_IuIA6Cka5OkgUvZJI7YmejRQwA/edit
 Визуализация требований, выделение классов эквивалентности и граничных значений, проектирование тестов для расчёта стоимости и времени.
 
 2-й спринт https://docs.google.com/document/d/1nVXf4snM493E7kJ8h5PgEK5l4fAyqVQmwyyjUtX9I-k/edit 
